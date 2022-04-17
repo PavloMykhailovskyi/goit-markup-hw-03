@@ -127,12 +127,15 @@ ul, ol {
 
 .hero {
     background-color: var(--main-background-color);
+    padding-left: 200px;
+    padding-right: 200px;
 }
 
 .hero-title {
     margin: 0 auto;
     max-width: 696px;
     margin-bottom: 30px;
+
 
     font-weight: 900;
     font-size: 44px;
